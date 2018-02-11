@@ -4,6 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 - sound: only set volume for playback devices
+- FBA Libretro: Bump to fix issues in some games
 
 ## [18.02.09] - 2018-02-09
 - C2: disable picodrive for now until we fix compilation
